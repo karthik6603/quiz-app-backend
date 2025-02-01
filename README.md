@@ -2,6 +2,12 @@
 
 Backend for the quiz application built with Spring Boot.
 
+[![Java](https://img.shields.io/badge/Java-11%2B-orange)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5%2B-green)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-blue)](https://www.mysql.com/)
+[![Quiz App](https://img.shields.io/badge/Quiz%20App-v1.0.0-brightgreen)](https://github.com/yourusername/quiz-app)
+
+
 Welcome to the **Quiz App Backend** repository! This project implements the backend for a quiz application using a microservices architecture. It leverages several modern Java technologies and frameworks to deliver a scalable and robust system.
 
 ## Table of Contents
